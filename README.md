@@ -1,3 +1,3 @@
-Employemnt Management System 
+Employment Management System 
 <br>
 Developer: Aishwarya Iyer
